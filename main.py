@@ -4,7 +4,7 @@ import numpy as np
 import tempfile
 
 def main():
-    st.set_page_config(page_title="Facial Detection")
+    st.set_page_config(page_title="Streamlit WebCam App")
     st.title("Webcam Display Steamlit App")
     st.caption("Powered by OpenCV, Streamlit")
     cap = cv2.VideoCapture(0)
