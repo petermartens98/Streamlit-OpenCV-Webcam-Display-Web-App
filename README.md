@@ -49,8 +49,5 @@ The script uses the Streamlit and OpenCV libraries to create the application. He
 
 Contributions to this repository are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
 ## Example Screenshot
 ![image](https://github.com/petermartens98/Streamlit-OpenCV-Webcam-Display-Web-App/assets/87671757/c4eff4c5-e310-46c1-9b0f-ec3aa87cb463)
