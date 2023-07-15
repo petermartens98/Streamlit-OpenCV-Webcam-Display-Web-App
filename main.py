@@ -1,7 +1,5 @@
 import streamlit as st
 import cv2
-import numpy as np 
-import tempfile
 
 def main():
     st.set_page_config(page_title="Streamlit WebCam App")
